@@ -1,5 +1,5 @@
 # EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
-# Reg no: 212223040227
+# Reg no: 212223230125
 # Date : 06-05-2025
 ## AIM:
 To Implement Diffie Hellman Key Exchange Algorithm 
